@@ -1,0 +1,3 @@
+[submodule "C_projects/SimpleBashUtils"]
+	path = C_projects/SimpleBashUtils
+	url = https://github.com/Max-312/SimpleBashUtils
