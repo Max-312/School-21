@@ -1,6 +1,6 @@
 [submodule "C_projects/SimpleBashUtils"]
 	path = C_projects/SimpleBashUtils
 	url = https://github.com/Max-312/SimpleBashUtils
-[submodule "C_projects/String.h"]
-	path = C_projects/String.h
+[submodule "C_projects\String+"]
+	path = C_projects\String.h
 	url = https://github.com/Max-312/String.h.git
